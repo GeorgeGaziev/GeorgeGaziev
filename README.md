@@ -1,11 +1,11 @@
 # Hi, I'm Georgii 👋
 👉 QA Automation Engineer with more than 3 years of commertial experience. I have a broad experience in performing and deploying test automation on Java.
-In general automated applications with web and API interfaces.
+
 
 🌱 I’m currently learning Spring framework and interested in software development.
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/george-gaziev-0440aa1b0/">
+   <a href="https://www.linkedin.com/in/georgii-gaziev-0440aa1b0">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
 <p align='center'>
@@ -13,7 +13,7 @@ In general automated applications with web and API interfaces.
 </p>
 
 ## 🛠 Technical Stack
-*   Java language
+*   Java language, Rust
 *   Selenium Webdriver, TestNG, JUnit, Selenide, Allure, SQL
 *   Maven, Jenkins, BitBucket, GitLab
 <!--
