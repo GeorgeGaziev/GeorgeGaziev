@@ -1,8 +1,9 @@
 # Hi, I'm Georgii 👋
-👉 QA Automation Engineer with more than 3 years of commertial experience. I have a broad experience in performing and deploying test automation on Java.
+- 👉 QA Automation Engineer with 3 years of commercial experience. I have a broad experience automated testing, including web testing, development of test frameworks and integration to CI/CD pipelines.
 
-
-🌱 I’m currently learning Spring framework and interested in software development.
+- 🔭 I’m currently working on a Rust project, inferencing tensorflow models in a Rust environment.
+  
+- 🌱 I’m learning Spring Framework and interested in software development, cloud native applications and DevOps.
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/georgii-gaziev-0440aa1b0">
@@ -13,9 +14,10 @@
 </p>
 
 ## 🛠 Technical Stack
-*   Java language, Rust
+*   Java, Rust
 *   Selenium Webdriver, TestNG, JUnit, Selenide, Allure, SQL
-*   Maven, Jenkins, BitBucket, GitLab
+*   Maven, Gradle, Jenkins, BitBucket, GitLab
+*   Spring Framework, Spring Boot, Spring Data
 <!--
 **GeorgeGaziev/GeorgeGaziev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
